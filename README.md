@@ -32,4 +32,5 @@ Smaller values of RMSE, MAE, and MAPE indicate higher accuracy in predicting ren
 **Documents**
 - Raw Data: data_daegu_apartment.csv
 - Jupyter Notebook: Daegu Apartment Pricing Prediction
+- Pickle: data_daegu_apartment.sav
 
